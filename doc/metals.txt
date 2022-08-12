@@ -454,7 +454,7 @@ parent/super methods of members.
 Type: boolean ~
 Default: false ~
 
-For all you crazy Nix kids out there, or if you are want to re-use the same
+For all you crazy Nix kids out there, or if you want to re-use the same
 executable for multiple clients, this is for you. Please NOTE that by doing
 this, you are fully taking control of updating and installing Metals. Unless
 there is a specific reason that you want to manage your own version and
